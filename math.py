@@ -10,4 +10,4 @@ def sub(x,y):
 
 # This function muls two numbers
 def mul(x,y):
-	return (x) * (y)
+	return x * y
